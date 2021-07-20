@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:qr_code_scanner_example/page/qr_scan_page.dart';
-import 'package:qr_code_scanner_example/widget/button_widget.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
